@@ -1,0 +1,208 @@
+
+Main started
+
+Module MErr started
+
+Module MErr finished
+
+Function 1 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 1 is:1
+
+Function 4 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 4 is:4
+
+Function 4 finished
+
+Function 1 finished
+
+Function 2 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 2 is:2
+
+Const 2 is: 20.200000
+
+Function 5 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 5 is:5
+
+Function 5 finished
+
+Function 6 started
+
+Module MErr started
+
+Module MErr finished
+
+Function 2 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 2 is:2
+
+Const 2 is: 20.200000
+
+Function 5 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 5 is:5
+
+Function 5 finished
+
+Function 6 started
+
+Module MErr started
+
+Module MErr finished
+
+Function 2 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 2 is:2
+
+Const 2 is: 20.200000
+
+Function 2 finished
+
+Const 1 and 3 are: 10, a
+
+Function 6 finished
+
+Function 2 finished
+
+Const 1 and 3 are: 10, a
+
+Function 6 finished
+
+Function 2 finished
+
+Function 3 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 3 is:3
+
+Function 6 started
+
+Module MErr started
+
+Module MErr finished
+
+Function 2 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 2 is:2
+
+Const 2 is: 20.200000
+
+Function 5 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 5 is:5
+
+Function 5 finished
+
+Function 6 started
+
+Module MErr started
+
+Module MErr finished
+
+Function 2 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 2 is:2
+
+Const 2 is: 20.200000
+
+Function 5 started
+
+Module MErr started
+
+Module MErr finished
+
+Type 5 is:5
+
+Function 5 finished
+
+Function 6 started
+
+Module MErr started
+
+Module MErr finished
+
+Const 1 and 3 are: 10, a
+
+Function 6 finished
+
+Function 2 finished
+
+Const 1 and 3 are: 10, a
+
+Function 6 finished
+
+Function 2 finished
+
+Const 1 and 3 are: 10, a
+
+Function 6 finished
+
+Function 7 started
+
+Module MErr started
+
+Module MErr finished
+
+Var 1 and 3 are: 1 , 3.300000
+
+Function 7 finished
+
+Function 8 started
+
+Module MErr started
+
+Module MErr finished
+
+Var 2 and 4 are: 2.200000 , 4
+
+Function 8 finished
+
+Function 3 finished
+
+Main finished
